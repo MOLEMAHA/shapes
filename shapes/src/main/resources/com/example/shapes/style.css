@@ -1,0 +1,32 @@
+.btn{
+    -fx-background-color:red;
+    -fx-width:200px;
+    -fx-height:70px;
+    -fx-padding:15px 30px;
+    -fx-background-border:30px;
+    -fx-text-fill:white;
+    -fx-font-weight:bold;
+}
+.btn:hover{
+    -fx-scale-y:1.02;
+    -fx-scale-x:1.02;
+    -fx-background-color:purple;
+    -fx-text-fill:black;
+}
+.softie{
+    -fx-padding:100px 400px;
+}
+.pre{
+    -fx-padding:200px 20px;
+}
+.nxt{
+
+    -fx-padding:200px 180px;
+}
+
+BorderPane{
+    -fx-background-color:black;
+}
+.header{
+    -fx-padding:10px 390px;
+}
